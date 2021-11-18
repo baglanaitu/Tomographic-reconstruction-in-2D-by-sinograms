@@ -1,6 +1,7 @@
 # Tomographic-reconstruction-in-2D-by-sinograms
 
 Sinograms:
+
 1)sinogram_2d_parallel.tif
 
 <img width="203" alt="3" src="https://user-images.githubusercontent.com/80285224/142333134-fca78246-b271-461f-b229-4a19ff7cf919.png">
